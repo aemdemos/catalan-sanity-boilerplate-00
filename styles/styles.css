@@ -259,3 +259,7 @@ main .section.highlight {
 .hidden {
   display: none;
 }
+
+.section.hidden {
+  display: none;
+}
